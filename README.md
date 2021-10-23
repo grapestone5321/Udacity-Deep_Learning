@@ -31,6 +31,8 @@ Welcome to this course on deep learning with PyTorch!
 ## LESSON 2: Introduction to Neural Networks
 Learn the concepts behind how neural networks operate and how we train them using data.
 
+- nalyze a dataset of student admissions at UCLA: intro-neural-networks > student_admissions
+https://github.com/udacity/deep-learning-v2-pytorch
 
 
 
