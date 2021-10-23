@@ -82,8 +82,23 @@ https://github.com/udacity/deep-learning-v2-pytorch
 Use a deep neural network to transfer the artistic style of one image onto another image.
 
 
+- implement style transfer and apply it using your own images!: tyle-transfer
+https://github.com/udacity/deep-learning-v2-pytorch
+
+
+
 ## LESSON 7: Recurrent Neural Networks
 Learn how to use recurrent neural networks to learn from sequential data such as text. Build a network that can generate realistic text one letter at a time.
+
+
+
+- an idea of how PyTorch represents RNNs and how you might represent memory in code: recurrent-neural-networks > time-series
+https://github.com/udacity/deep-learning-v2-pytorch
+
+- implement an RNN of our own: recurrent-neural-networks > char-rnn
+https://github.com/udacity/deep-learning-v2-pytorch
+
+
 
 
 ## LESSON 8: Sentiment Prediction RNNs
