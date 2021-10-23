@@ -35,6 +35,10 @@ Learn the concepts behind how neural networks operate and how we train them usin
 - define and train an MLP in PyTorch: convolutional-neural-networks > mnist-mlp
 https://github.com/udacity/deep-learning-v2-pytorch
 
+
+### Exploring MNIST Dataset using PyTorch to Train an MLP
+https://www.projectpro.io/article/exploring-mnist-dataset-using-pytorch-to-train-an-mlp/408
+
 ## LESSON 3: Talking PyTorch with Soumith Chintala
 Hear from Soumith Chintala, the creator of PyTorch, about the past, present, and future of the PyTorch framework.
 
