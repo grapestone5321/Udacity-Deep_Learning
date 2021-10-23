@@ -44,6 +44,18 @@ Hear from Soumith Chintala, the creator of PyTorch, about the past, present, and
 Learn how to use PyTorch to build and train deep neural networks. By the end of this lesson, you will build a network that can classify images of dogs and cats with state-of-the-art performance.
 
 
+- build a network and run data forward through PyTorch: intro-to-pytorch
+https://github.com/udacity/deep-learning-v2-pytorch
+
+      Part 1: Introduction to PyTorch and using tensors
+      Part 2: Building fully-connected neural networks with PyTorch
+      Part 3: How to train a fully-connected network with backpropagation on MNIST
+      Part 4: Exercise - train a neural network on Fashion-MNIST
+      Part 5: Using a trained network for making predictions and validating networks
+      Part 6: How to save and load trained models
+      Part 7: Load image data with torchvision, also data augmentation
+      Part 8: Use transfer learning to train a state-of-the-art image classifier for dogs and cats
+
 ## LESSON 5: Convolutional Neural Networks
 Learn how to use convolutional neural networks to build state-of-the-art computer vision models.
 
