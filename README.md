@@ -32,12 +32,7 @@ Welcome to this course on deep learning with PyTorch!
 Learn the concepts behind how neural networks operate and how we train them using data.
 
 
-- define and train an MLP in PyTorch: convolutional-neural-networks > mnist-mlp
-https://github.com/udacity/deep-learning-v2-pytorch
 
-
-### Exploring MNIST Dataset using PyTorch to Train an MLP
-https://www.projectpro.io/article/exploring-mnist-dataset-using-pytorch-to-train-an-mlp/408
 
 ## LESSON 3: Talking PyTorch with Soumith Chintala
 Hear from Soumith Chintala, the creator of PyTorch, about the past, present, and future of the PyTorch framework.
@@ -49,6 +44,24 @@ Learn how to use PyTorch to build and train deep neural networks. By the end of 
 
 ## LESSON 5: Convolutional Neural Networks
 Learn how to use convolutional neural networks to build state-of-the-art computer vision models.
+
+
+
+- define and train an MLP in PyTorch: convolutional-neural-networks > mnist-mlp
+https://github.com/udacity/deep-learning-v2-pytorch
+
+
+### Exploring MNIST Dataset using PyTorch to Train an MLP
+https://www.projectpro.io/article/exploring-mnist-dataset-using-pytorch-to-train-an-mlp/408
+
+
+
+- create and apply image filters!: convolutional-neural-networks > conv-visualization
+https://github.com/udacity/deep-learning-v2-pytorch
+
+- define and train an CNN in PyTorch: convolutional-neural-networks > cifar-cnn 
+https://github.com/udacity/deep-learning-v2-pytorch
+
 
 
 ## LESSON 6: Style Transfer
