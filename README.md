@@ -78,6 +78,12 @@ Learn how to use recurrent neural networks to learn from sequential data such as
 Here you'll build a recurrent neural network that can accurately predict the sentiment of movie reviews.
 
 
+- classify the sentiment of movie reviews (positive or negative): isentiment-rnn
+https://github.com/udacity/deep-learning-v2-pytorch
+
+
+
+
 ## LESSON 9: Deploying PyTorch Models
 In this lesson, we'll walk through a tutorial showing how to deploy PyTorch models with Torch Script.
 
